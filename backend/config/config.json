@@ -1,0 +1,41 @@
+{
+  "development": {
+    "username": "learning-app_owner",
+    "password": "XSTieoh76pPB",
+    "database": "learning-app",
+    "host": "ep-empty-cake-a6p9blf7.us-west-2.aws.neon.tech",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "test": {
+    "username": "learning-app_owner",
+    "password": "XSTieoh76pPB",
+    "database": "learning-app",
+    "host": "ep-empty-cake-a6p9blf7.us-west-2.aws.neon.tech",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "production": {
+    "username": "learning-app_owner",
+    "password": "XSTieoh76pPB",
+    "database": "learning-app",
+    "host": "ep-empty-cake-a6p9blf7.us-west-2.aws.neon.tech",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}
